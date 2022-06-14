@@ -80,10 +80,10 @@ body{
 
 @keyframes drive{
     from{
-        transform: translateX(-200px);
+        transform: translateX(-350px);
     }
     to{
-        transform: translateX(1500px);
+        transform: translateX(2000px);
     }
 }
 
@@ -102,7 +102,7 @@ body{
 
 @keyframes cloud{
     from{
-        left: -200px;
+        left: -300px;
     }
     to{
         left: 100%;
